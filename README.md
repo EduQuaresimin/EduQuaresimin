@@ -4,7 +4,7 @@
 - 📖 Studying automated tests
 - 😄 Pronouns: He / His
 - 🕹️ Favorite Game: The Elder Scrolls V: Skyrim
-- 💥 Fun fact: I enjoy playng D&D
+- 💥 Fun fact: I enjoy playing D&D
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduQuaresimin&count_private=true&show_icons=true&theme=dracula"/>
