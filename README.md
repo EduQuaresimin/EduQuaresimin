@@ -69,12 +69,11 @@
  </a>
  
  <br>
- <br>
- <br>
- 
-<div align="center">
+
+<h3>🔥 My Stats:</h3>
+<div align="left">
  <a href="https://github.com/EduQuaresimin">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduQuaresimin&layout=compact&langs_count=7&theme=dark&background=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduQuaresimin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img width="600em" src="https://github-readme-streak-stats.herokuapp.com/?user=EduQuaresimin&layout=compact&langs_count=7&theme=dark&background=000000"/>
+  <img width="600em" src="https://github-readme-stats.vercel.app/api?username=EduQuaresimin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
  </a>
 </div>
