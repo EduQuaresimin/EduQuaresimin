@@ -73,7 +73,7 @@
 <h3>🔥 My Stats:</h3>
 <div align="left">
  <a href="https://github.com/EduQuaresimin">
-  <img height="171em" src="https://github-readme-streak-stats.herokuapp.com?user=EduQuaresimin&theme=github-dark"/>
-  <img height="171em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduQuaresimin&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=EduQuaresimin&theme=github-dark"/>
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduQuaresimin&count_private=true&show_icons=true&theme=github_dark"/>
  </a>
 </div>
