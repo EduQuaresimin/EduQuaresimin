@@ -12,7 +12,7 @@
 
 <h3>👨🏻‍💻 About Me:</h3>
 
-- 🔭 I'm looking for work as a Quality Assurance Analyst (QA)
+- 🔭 I'm looking for work as a Automation Tester Engineer (QA)
 - 📖 Studying automated tests
 - 😄 Pronouns: He / His
 - 🕹️ Favorite Game: The Elder Scrolls V: Skyrim
