@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Eduardo 👋</h1>
-<h4 align="center">I'm 25 years old, I live in Brusque, Brazil, and I have my bags packed for Lisbon. I'm a PC building enthusiast and I take it as a hobby. I have 6 years of experience in the IT area and today I'm studying to become an Automation Tester Engineer. My learning focus right now is on Cypress, but I'm looking for learning more about this area every day. Connect with me and may the force be with you!</h4>
+<h4 align="center">I'm 25 years old, I am from Brusque, Brazil, and now I live on Costa da Caparica, Portugal. I'm a PC building enthusiast and I take it as a hobby. I have 6 years of experience in the IT area and today I'm studying to become an Automation Tester Engineer. My learning focus right now is on Cypress, but I'm looking for learning more about this area every day. Connect with me and may the force be with you!</h4>
 
 <br>
 
