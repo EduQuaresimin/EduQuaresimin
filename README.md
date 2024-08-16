@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm Eduardo 👋</h1>
-<div align="center">I'm 26 years old, I am from Brusque, Brazil, and now I live on Costa da Caparica, Portugal. I'm a PC building enthusiast and I take it as a hobby. I have 7 years of experience in the IT area and today I'm studying to become an QA Automation Engineer. My learning focus right now is on Cypress, but I'm looking for learning more about this area every day. Connect with me and may the force be with you!</div>
+<div align="center">I'm 26 years old, from Brusque, Brazil, and now live in Costa da Caparica, Portugal. I'm a PC building enthusiast and I take it as a hobby. I have 7 years of experience in the IT area and today I'm working as QAE Automation Consultant at Oracle. My learning focus right now is on Cypress, but I'm looking to learn more about this area every day. Connect with me and may the force be with you!</div>
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <h3>👨🏻‍💻 About Me:</h3>
 
-- 🔭 I'm working as QA Engineer at Reflaunt
+- 🔭 I'm working as QAE Automation Consultant at Oracle
 - 📖 Studying automated tests
 - 😄 Pronouns: He / His
 - 🕹️ Favorite Game: The Elder Scrolls V: Skyrim
